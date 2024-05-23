@@ -15,7 +15,7 @@ The main steps involved in this project are:
 
 ## File Descriptions
 
-- `Stroke.csv`: The dataset containing information about age and the target variable.
+- `Stroke.csv`: the dataset which we used for the logistic regression
 - `script.py`: The main Python script that performs all the steps mentioned above.
 - `README.md`: This file, providing an overview and instructions.
 
@@ -27,7 +27,8 @@ To run this project, you need to have the following libraries installed:
 - pandas
 - matplotlib
 - scikit-learn
-
+- Kaggle for the dataset
+  
 # Stroke Prediction using Logistic Regression
 
 This project demonstrates a logistic regression model to predict the probability of a binary target variable (e.g., stroke occurrence) based on the age of individuals. The dataset used for this project is assumed to be named `Stroke.csv`.
@@ -56,3 +57,5 @@ To run this project, you need to have the following libraries installed:
 - pandas
 - matplotlib
 - scikit-learn
+- simple Imputer for the missing data
+- score to find the better accuracy
