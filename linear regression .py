@@ -7,13 +7,13 @@
     },
     "kernelspec": {
       "name": "python3",
-      "display_name": "Python 3"
+      "display_name": "Python 3",
     },
     "language_info": {
       "name": "python"
     }
   },
-  "cells": [
+  "cells" : [
     {
       "cell_type": "code",
       "execution_count": null,
