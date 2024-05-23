@@ -55,4 +55,4 @@ To run this project, you need to have the following libraries installed:
 - numpy
 - pandas
 - matplotlib
-- scikit-learn abc
+- scikit-learn
