@@ -1,4 +1,4 @@
-# Heart-Stroke-prediction
+# Heart-Stroke-Prediction
 # Stroke Prediction using Linear Regression
 
 This project demonstrates a simple linear regression model to predict a target variable (presumably stroke occurrence or risk) based on the age of individuals. The dataset used for this project is assumed to be named `Stroke.csv`.
