@@ -57,7 +57,4 @@ To run this project, you need to have the following libraries installed:
 - matplotlib
 - scikit-learn
 
-You can install these dependencies using pip:
 
-```bash
-pip install numpy pandas matplotlib scikit-learn
